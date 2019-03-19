@@ -1,0 +1,4 @@
+enum (Item) {
+  description (Place to check)
+  symbol (Table)
+}

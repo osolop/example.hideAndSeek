@@ -1,0 +1,7 @@
+enum (Location) {
+  description (Simple location.)
+  symbol (Corridor)
+  symbol(Kitchen)
+  symbol(Bathroom)
+  symbol(Living Room)
+}

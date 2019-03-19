@@ -1,0 +1,19 @@
+result-view {
+  match {
+    DescriptionResultConcept (descriptionResult)
+  }
+  render {
+    layout {
+      section {
+        content {
+          single-line {
+            text {
+              style (Detail_M)
+              value ("#{value(descriptionResult.description)}")
+            }
+          }
+        }
+      }
+    }
+  }
+}

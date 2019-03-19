@@ -1,0 +1,9 @@
+dialog (Result) {
+  match {
+    DescriptionResultConcept (descriptionResult)
+    {
+      from-output: Describe(descriptionOutput) 
+    }
+  }
+  template("${value(descriptionResult.description)}")
+}

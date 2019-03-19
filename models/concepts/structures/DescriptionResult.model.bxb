@@ -1,0 +1,7 @@
+structure (DescriptionResultConcept) {
+  description (Description of the place)
+  property (description) {
+    type(Description)
+    min(Required)
+  }
+}

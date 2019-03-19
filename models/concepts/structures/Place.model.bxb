@@ -1,0 +1,17 @@
+structure (Place) {
+  description (Place with items where user can check objects)
+  property (location) {
+    min (Required)
+    type (Location)
+  }
+  
+  property (item) {
+    type (Item)
+    min (Required) max (Many)
+  }
+  
+  property (description) {
+    type (Description)
+    min (Required)
+  }
+}

@@ -1,0 +1,18 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (ChangePlace) {
+      accepted-inputs (location)
+      local-endpoint (ChnageLocation.js)
+    }
+    action-endpoint (Describe) {
+      accepted-inputs (location)
+      local-endpoint (Describe.js)
+    }
+    action-endpoint (Describe) {
+      accepted-inputs ()
+      remote-endpoint ("https://osolop.pythonanywhere.com") {
+        method (GET)
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+action (ChangePlace) {
+  type (Search)
+  description (Move to other location)
+  collect {
+    input (location) {
+      type (Location)
+      min (Required) max (One)
+    }
+  }
+  output (Location)
+}

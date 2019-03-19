@@ -1,0 +1,11 @@
+action (Describe) {
+  description (The request for a more detailed description about the location)
+  collect {
+    input (location) {
+      type (Location)
+      min (Optional) max (One)
+    }
+  }
+  output (DescriptionResultConcept)
+  type(Fetch)
+}
