@@ -1,0 +1,9 @@
+dialog (Result) {
+  match {
+    CheckResultConcept (checkResult)
+    {
+      from-output: CheckObject(checkOutput)
+    }
+  }
+  template("${value(checkResult.description)}")
+}

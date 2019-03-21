@@ -1,0 +1,7 @@
+structure (CheckResultConcept) {
+  description (Result from api)
+  property (description) {
+    type(Description)
+    min(Required)
+  }
+}

@@ -1,5 +1,5 @@
-action (ChangePlace) {
-  type (Search)
+action (ChangeLocation) {
+  type (Fetch)
   description (Move to other location)
   collect {
     input (location) {
@@ -7,5 +7,5 @@ action (ChangePlace) {
       min (Required) max (One)
     }
   }
-  output (Location)
+  output (MoveResultConcept)
 }

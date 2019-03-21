@@ -1,0 +1,7 @@
+structure (MoveResultConcept) {
+  description (Response about location change)
+  property (description) {
+    type(Description)
+    min(Required)
+  }
+}

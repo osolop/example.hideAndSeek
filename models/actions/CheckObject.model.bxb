@@ -1,0 +1,15 @@
+action (CheckObject) {
+  type (Search)
+  description (Try to find smthing)
+  collect {
+    input (location) {
+      type (Location)
+      min (Optional) max (One)
+    }
+    input (item) {
+      type (Item)
+      min (Required) max (One)
+    }
+  }
+  output (CheckResultConcept)
+}
