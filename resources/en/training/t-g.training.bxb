@@ -1,0 +1,5 @@
+train (t-guulzsb660s0lpnejjc70ir2j) {
+  utterance ("[g:DescriptionResultConcept] What about the (living room)[v:Location]")
+  plan (Y2Bm0EmtSMwtyEnVy8hMSXXMSwlOTc3Wc0ktTi7KLCjJzM8LSi0uzSlxzs9LTi0oYZDBrTopFbusT35yIsggBiYGRiBmAJKMDCDABMEA)
+  last-modified (1553199021444)
+}

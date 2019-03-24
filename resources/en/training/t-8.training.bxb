@@ -1,0 +1,5 @@
+train (t-8ht1io78f1rt2yce1mk88xv8i) {
+  utterance ("[g:MoveResultConcept] Let's go to the (living room)[v:Location]")
+  plan (Y2BmUE2tSMwtyEnVy8hMSXXMSwlOTc3W880vSw1KLS7NKXHOz0tOLShhUMKmzDkjMS891Sc/ObEkMz+PQQabGrgsEwMjEDMASUYGEGCCYAA=)
+  last-modified (1553202047298)
+}

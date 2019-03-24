@@ -1,8 +1,8 @@
 endpoints {
   action-endpoints {
-    action-endpoint (ChangePlace) {
+    action-endpoint (ChangeLocation) {
       accepted-inputs (location)
-      local-endpoint (ChnageLocation.js)
+      local-endpoint (ChangeLocation.js)
     }
     action-endpoint (Describe) {
       accepted-inputs (location)
@@ -10,9 +10,17 @@ endpoints {
     }
     action-endpoint (Describe) {
       accepted-inputs ()
-      remote-endpoint ("https://osolop.pythonanywhere.com") {
+      remote-endpoint ("https://osolop.pythonanywhere.com/details") {
         method (GET)
       }
+    }
+    action-endpoint (CheckObject) {
+      accepted-inputs (location, item)
+      local-endpoint (CheckLocationItem.js)
+    }
+    action-endpoint (CheckObject) {
+      accepted-inputs (item)
+      local-endpoint (CheckItem.js)
     }
   }
 }

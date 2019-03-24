@@ -1,5 +1,5 @@
 train (t-lstf25eyut57fqpjqddxk8vhf) {
-  utterance ("[g:DescriptionResultConcept] Describe (kitchen)[v:Location:Kitchen]")
-  plan (Y2Bm0EmtSMwtyEnVy8hMSXXMSwlOTc3Wc0ktTi7KLCjJzM8LSi0uzSlxzs9LTi0oYZDBrTopFbusT35yIsggBiYGRiBmAJKMDCDABMEA)
-  last-modified (1552946422139)
+  utterance ("[g:DescriptionResultConcept] Describe {[g:Location] (kitchen)[v:Location]}")
+  plan (Y2Bh0EmtSMwtyEnVy8hMSXXMSwlOTc3Wc0ktTi7KLCjJzM8LSi0uzSlxzs9LTi0oYZDBrTopFbusT35yIsggArLMDIwMTECSAUwzAmkeIAbxmSByAA==)
+  last-modified (1553198185391)
 }

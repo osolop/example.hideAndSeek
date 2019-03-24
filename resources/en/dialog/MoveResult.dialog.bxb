@@ -1,0 +1,9 @@
+dialog (Result) {
+  match {
+    MoveResultConcept (moveResult)
+    {
+      from-output: ChangeLocation(moveOutput)
+    }
+  }
+  template("${value(moveResult.description)}")
+}

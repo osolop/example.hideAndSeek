@@ -1,0 +1,5 @@
+train (t-ix4xb0ju9c1j7qpltl48ltq91) {
+  utterance ("[g:MoveResultConcept] Move to the (kitchen)[v:Location]")
+  plan (Y2BmUE2tSMwtyEnVy8hMSXXMSwlOTc3W880vSw1KLS7NKXHOz0tOLShhUMKmzDkjMS891Sc/ObEkMz+PQQabGrgsEwMjEDMASUYGEGCCYAA=)
+  last-modified (1553202053606)
+}
