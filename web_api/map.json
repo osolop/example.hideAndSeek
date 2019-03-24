@@ -1,0 +1,6 @@
+{
+  "corridor": ["closet"],
+  "living room": ["desk", "sofa", "table"],
+  "kitchen": ["table", "chair"],
+  "bathroom": ["sink"]
+}
