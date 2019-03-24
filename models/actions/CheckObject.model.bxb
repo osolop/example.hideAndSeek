@@ -5,6 +5,14 @@ action (CheckObject) {
     input (location) {
       type (Location)
       min (Optional) max (One)
+      default-init {
+        intent {
+          goal {Location}
+          value {
+            Location ("current")
+          }
+        }
+      }
     }
     input (item) {
       type (Item)

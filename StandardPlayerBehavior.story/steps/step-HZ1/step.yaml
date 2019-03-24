@@ -1,0 +1,3 @@
+data:
+  aligned: '[g:ChangeLocation] Move to the (living room)[v:Location]'
+type: intent

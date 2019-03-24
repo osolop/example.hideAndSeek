@@ -1,0 +1,16 @@
+data:
+  geo:
+    latitude: 37.334502
+    longitude: -121.890654
+  time: '2019-03-24T17:40:45.479Z'
+  tz: Europe/Warsaw
+steps:
+  step-2H9:
+    step-HZ1:
+      step-D7X:
+        step-J7R: ~
+      step-ILJ:
+        step-05V:
+          step-A3Z: ~
+    step-K4H: ~
+version: 2

@@ -1,0 +1,3 @@
+data:
+  aligned: '[g:CheckObject] Check (sink)[v:Item] in the (bathroom)[v:Location]'
+type: intent

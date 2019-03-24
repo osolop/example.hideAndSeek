@@ -1,0 +1,76 @@
+- request:
+    headers:
+      Accept-Charset: UTF-8
+      Accept-Encoding: gzip
+      User-Agent: Mozilla/5.0 (compatible) gzip
+    method: GET
+    url: 'https://osolop.pythonanywhere.com/details'
+  response:
+    headers:
+      $status: HTTP/1.1 200 OK
+      Connection: close
+      Content-Length: '80'
+      Content-Type: application/json
+      Date: 'Sun, 24 Mar 2019 18:02:48 GMT'
+      Server: openresty/1.9.15.1
+      X-Clacks-Overhead: GNU Terry Pratchett
+    responseFilename: webcache/osolop.pythonanywhere.com-1-res.json
+    status: 200
+- request:
+    headers:
+      Accept: application/json
+      Accept-Encoding: gzip
+      Content-Type: application/json
+      User-Agent: Mozilla/5.0 (compatible) gzip
+    method: GET
+    url: >-
+      https://osolop.pythonanywhere.com/details?%24vivContext=%7B%22testToday%22:1553449245000%2C%22is24HourFormat%22:false%2C%22timezone%22:%22Europe%2FWarsaw%22%2C%22handsFree%22:false%2C%22screenLocked%22:false%2C%22sessionId%22:%2287804a809dd20b0fad4ee64409ba266d0b6063ba1f281960484febd7e63eb232%22%2C%22locale%22:%22en-US%22%2C%22grantedPermissions%22:%7B%7D%2C%22device%22:%22bixby-mobile%22%2C%22userId%22:%226cef67b2667365e751b932b601e29e0f1781f1e222316c7f8c014194da55ca2f%22%2C%22canTypeId%22:%22bixby-mobile-en-US%22%7D
+  response:
+    headers:
+      $status: HTTP/1.1 200 OK
+      Connection: close
+      Content-Length: '80'
+      Content-Type: application/json
+      Date: 'Sun, 24 Mar 2019 18:02:48 GMT'
+      Server: openresty/1.9.15.1
+      X-Clacks-Overhead: GNU Terry Pratchett
+    responseFilename: webcache/osolop.pythonanywhere.com-2-res.json
+    status: 200
+- request:
+    headers:
+      Accept: application/json
+      Accept-Encoding: gzip
+      Content-Type: application/json
+      User-Agent: Mozilla/5.0 (compatible) gzip
+    method: GET
+    url: >-
+      https://osolop.pythonanywhere.com/details?%24vivContext=%7B%22testToday%22:1553449245000%2C%22is24HourFormat%22:false%2C%22timezone%22:%22Europe%2FWarsaw%22%2C%22handsFree%22:false%2C%22screenLocked%22:false%2C%22sessionId%22:%2280f1fef825a460930b5066dffc553e9f80e09a697b5bf59092f81604c785d888%22%2C%22locale%22:%22en-US%22%2C%22grantedPermissions%22:%7B%7D%2C%22device%22:%22bixby-mobile%22%2C%22userId%22:%226cef67b2667365e751b932b601e29e0f1781f1e222316c7f8c014194da55ca2f%22%2C%22canTypeId%22:%22bixby-mobile-en-US%22%7D
+  response:
+    headers:
+      $status: HTTP/1.1 200 OK
+      Connection: close
+      Content-Length: '80'
+      Content-Type: application/json
+      Date: 'Sun, 24 Mar 2019 18:07:17 GMT'
+      Server: openresty/1.9.15.1
+      X-Clacks-Overhead: GNU Terry Pratchett
+    responseFilename: webcache/osolop.pythonanywhere.com-3-res.json
+    status: 200
+- request:
+    headers:
+      Accept-Charset: UTF-8
+      Accept-Encoding: gzip
+      User-Agent: Mozilla/5.0 (compatible) gzip
+    method: GET
+    url: 'https://osolop.pythonanywhere.com/details'
+  response:
+    headers:
+      $status: HTTP/1.1 200 OK
+      Connection: close
+      Content-Length: '80'
+      Content-Type: application/json
+      Date: 'Sun, 24 Mar 2019 18:07:17 GMT'
+      Server: openresty/1.9.15.1
+      X-Clacks-Overhead: GNU Terry Pratchett
+    responseFilename: webcache/osolop.pythonanywhere.com-4-res.json
+    status: 200
