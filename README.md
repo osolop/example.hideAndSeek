@@ -4,7 +4,7 @@ This is a capsule submission for the SRPOL Bixby Hackathon.
 
 The capsule is called "Hide & Seek" and it is simple voice controll game.
 
-The game depends on seeking the hidden object. Player allowed to move on the map and check hidden places.
+The game depends on seeking the hidden object. Player allowed to move on the map and check hidden places. This kind of voice controlled games is a great rest for the eyes after whole day activities with all kind of displays.
 
 The capsule uses Bixby for natural language processing and an external RESTful web api written in Python for calculations and memory.
 
